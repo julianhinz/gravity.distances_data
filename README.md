@@ -1,6 +1,6 @@
 # gravity.distances_data
 
-Data for the `gravity.distances` R package. Please check out [julianhinz.com/resources/distances](julianhinz.com/resources/distances) for more information.
+Data for the [gravity.distances](https://github.com/julianhinz/gravity.distances) R package. Please check out [julianhinz.com/resources/distances](julianhinz.com/resources/distances) for more information.
 
 ## Currently available distance datasets
 * `distances_from_countries_to_countries`: Distances between 193 countries, for the years 1992 – 2012 and &theta; &isin; {-2,1}
