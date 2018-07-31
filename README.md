@@ -1,6 +1,6 @@
 # gravity.distances_data
 
-Data for the [gravity.distances](https://github.com/julianhinz/gravity.distances) R package. Please check out [julianhinz.com/resources/distances](julianhinz.com/resources/distances) for more information.
+Data for the [gravity.distances](https://github.com/julianhinz/gravity.distances) R package. Please check out [julianhinz.com/resources/#gravity.distances](julianhinz.com/resources/#gravity.distances) for more information.
 
 ## Currently available distance datasets
 | Name | Description |
